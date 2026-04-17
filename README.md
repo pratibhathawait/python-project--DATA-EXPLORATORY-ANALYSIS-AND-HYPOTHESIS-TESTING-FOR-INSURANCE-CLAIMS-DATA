@@ -1,5 +1,5 @@
 # python-project
-DATA EXPLORATORY ANALYSIS AND HYPOTHESIS TESTING FOR INSURANCE CLAIMS DATA
+EXPLORATORY Data ANALYSIS AND HYPOTHESIS TESTING FOR INSURANCE CLAIMS DATA
 🚀 Project Overview
 This project performs Exploratory Data Analysis (EDA) and Statistical Hypothesis Testing on insurance claims data by combining customer and claims datasets to create a 360-degree analytical view.
 
